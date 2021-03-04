@@ -1,4 +1,6 @@
 data/
+nturgb+d_skeletons/
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
